@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Nikolay",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Stella",
+      "age": 21,
+      "companyId": "1"
+    },
+    {
+      "id": "12",
+      "firstName": "Mario",
+      "age": 14,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Elena",
+      "age": 25,
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Accedia",
+      "description": "service"
+    },
+    {
+      "id": "2",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "pc"
+    }
+  ]
+}
